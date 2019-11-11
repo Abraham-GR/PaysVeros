@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 25 0 25 25 0 25"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card-A" transform="translate(-53.000000, -415.000000)">
+            <g id="Group" transform="translate(53.000000, 415.000000)">
+                <g id="Page-1">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M24.7347022,11.3490219 C23.6292889,7.17459586 19.3932686,4.69050987 15.2614422,5.78554047 C14.1380645,1.62079427 9.89246311,-0.847561996 5.76183432,0.268038236 C1.63000789,1.38484845 -0.828728244,5.66454261 0.256325305,9.83896864 L0.255127674,9.83896864 L0.264708721,9.875268 L4.26719102,25 L19.2375766,20.9562517 L19.2723079,20.9465718 C23.3957509,19.8116119 25.8389179,15.5234479 24.7347022,11.3490219" id="Fill-1" fill="#E2494E" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
